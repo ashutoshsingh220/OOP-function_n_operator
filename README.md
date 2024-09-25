@@ -43,7 +43,7 @@ int main() {
 ```
 ## Algorithm:
 
-### function overloading
+### Function overloading:-
 
 1)Start
 
